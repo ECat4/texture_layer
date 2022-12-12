@@ -18,6 +18,6 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    expect(await TextureLayer.platformVersion, '42');
+    expect(await TextureLayer.createTexture, '42');
   });
 }
