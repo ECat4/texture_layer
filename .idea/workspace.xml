@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa428be-47a3-4be9-92d5-8ed0f25ddded" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/texture_layer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/texture_layer.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/texture_layer_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/texture_layer_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texture_layer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/texture_layer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
